@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [PlexShare](https://github.com/Chewbaka69/PlexShare)  
   
 
-- 🌱 I’m currently learning VueJS and Azure   
+- 🌱 I’m currently learning VueJS, NextJS and Azure   
 
 
 - ⚡ Fun fact: I already work in cyber-security 🐱‍💻
